@@ -3,13 +3,16 @@ The comb algorithm for detection of calcium transients and action potentials in 
 
 ## Repository files
 
-** MATLAB/OCTAVE FUNCTION FOR THE COMB ALGORITHM**
+**Matlab/Octave function for the comb algorithm**
+
 combGetMinima.m
 
-** MATLAB SCRIPT FOR GENERATION OF FIGURES in the accompanying article [TODO] **
+**Matlab script for generation of figures in the accompanying article [TODO] **
+
 generatingFigures.m
 
-** EXPERIMENTAL DATA FILES USED IN GENERATION OF THE FIGURES ABOVE **
+**Experimental data files used in generation of figures via the script above **
+
 bcl85_alternans_Ca.mat
 bcl85_alternansSevere_Ca.mat
 bcl140_pacing_Ca.mat
